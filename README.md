@@ -21,8 +21,6 @@
 ![image](https://user-images.githubusercontent.com/55734436/109390517-6e05ff80-7955-11eb-87d2-38ea8af27d70.png)
 
 
-## 사용 데이터 목록
-
 ## 데이터 분석 모델링
 ![image](https://user-images.githubusercontent.com/55734436/113239026-d0e80f00-92e4-11eb-88f5-9bb8c612eb26.png)
 
@@ -38,6 +36,3 @@
 ![image](https://user-images.githubusercontent.com/55734436/113239142-1573aa80-92e5-11eb-9466-3f565780bab1.png)
 ![image](https://user-images.githubusercontent.com/55734436/113239158-1ad0f500-92e5-11eb-8d43-cf7dc9412d4d.png)
 
-~~~~~~~~~~~~~~~
-정리 필요
-코드파일 태양오빠 물어보기
