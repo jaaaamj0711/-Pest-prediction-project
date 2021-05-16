@@ -30,7 +30,7 @@
 ![image](https://user-images.githubusercontent.com/55734436/113239088-f37a2800-92e4-11eb-96c7-6dce9b3be4bb.png)
 
 
-## 활용및 방안
+## 활용 및 방안
 
 ![image](https://user-images.githubusercontent.com/55734436/113239117-05f46180-92e5-11eb-8a20-8bed10ae4c62.png)
 ![image](https://user-images.githubusercontent.com/55734436/113239142-1573aa80-92e5-11eb-9466-3f565780bab1.png)
