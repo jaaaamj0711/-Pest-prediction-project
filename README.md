@@ -38,7 +38,8 @@
 
 
 ## 활용 및 방안
-웹사이트를 제작하여 돌발해충에 관한 정보를 서비스를 제공합니다.
+웹사이트를 제작하여 돌발해충에 관한 정보를 제공하도록 .  
+
 ![image](https://user-images.githubusercontent.com/55734436/113239117-05f46180-92e5-11eb-8a20-8bed10ae4c62.png)
 ![image](https://user-images.githubusercontent.com/55734436/113239142-1573aa80-92e5-11eb-9466-3f565780bab1.png)
 ![image](https://user-images.githubusercontent.com/55734436/113239158-1ad0f500-92e5-11eb-8d43-cf7dc9412d4d.png)
